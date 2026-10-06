@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-subtraq.subtraq",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing & Content", "Analytics"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://subtraq.co/en/developers"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/subtraq/n8n-nodes-subtraq#readme"
+			}
+		]
+	}
+}
