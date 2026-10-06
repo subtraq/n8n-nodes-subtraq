@@ -90,7 +90,7 @@ The key is shown once in Subtraq and stored hashed: if you lose it, create a new
 
 ## Compatibility
 
-Built with the official `@n8n/node-cli` (0.50) and n8n nodes API version 1. The package declares Node.js 20.15 or later.
+Built with the official `@n8n/node-cli` (0.50) and n8n nodes API version 1. Tested with n8n 2.41.7 (self-hosted, Node.js 24): credential test, every operation, and the trigger from activation to deactivation.
 
 ## Usage
 
